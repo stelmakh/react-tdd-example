@@ -1,3 +1,5 @@
+A complete code example for [this article on Medium](https://medium.com/@VStelmakh/tdd-your-react-components-8c8ad60ce2cc)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
